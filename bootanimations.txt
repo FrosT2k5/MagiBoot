@@ -1,0 +1,2 @@
+1,Oxygen OS Bootanimation,https://example.com/download/oxygen.zip
+2,Hydrogen OS Bootanimation,https://example.com/download/hyrdogen.zip
